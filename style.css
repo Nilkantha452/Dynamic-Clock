@@ -1,0 +1,14 @@
+.mm{
+    border: 2px solid red;
+    width: 32px;
+}
+.main{
+    display: flex;
+}
+#bu{
+    margin-left: 5px;
+}
+body{
+    
+    padding: 100px;
+}
